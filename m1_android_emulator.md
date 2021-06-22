@@ -1,5 +1,7 @@
 - [ ] download latest S image and create the AVD
-[one](emul1.png) [two](emul2.png)
+
+[image one](emul1.png) [image two](emul2.png)
+
 **if the avd will start, but the adb will always return:  'device not connected':**
 - [ ] delete the avd
 - [ ] donwload S02 image https://dl.google.com/android/repository/sys-img/google_apis/arm64-v8a-S_r02.zip
